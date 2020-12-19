@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/Deependra-009?label=Follow&style=social)](https://github.com/Deependra-009)
 </br>
 
-<img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
+<img alt="GIF" height= 200 src="https://camo.githubusercontent.com/247e136bbbb5015042d384c1fe1c1ac854bd25c0d93870e6758c77a200115592/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934616b394b6932475a43624a78416e4a442f67697068792e676966" />
 
 
 - 🔭 I’m currently working on Node.js .
