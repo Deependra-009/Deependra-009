@@ -1,6 +1,8 @@
 ## Hi, I'm [Deependra Trivedi](http://deependratrivedi09.000webhostapp.com/) 👋
 
 ![Profile views](https://gpvc.arturio.dev/Deependra-009)
+[![Github](https://img.shields.io/github/followers/Deependra-009?label=Follow&style=social)](https://github.com/Deependra-009)
+</br>
 
 <img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/44522024/95550376-68e7f880-0a26-11eb-8284-3ae06236dba1.gif" />
 
@@ -40,13 +42,10 @@
 ![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-
-![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue)
 <br/>
 
---
+---
 
 ### ⏳ I’m currently working on ...
 
@@ -54,6 +53,11 @@
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Node.js](http://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 <br/>
+
+
+[![Deependra github stats](https://github-readme-stats.vercel.app/api?username=Deependra-009)](https://github.com/Deependra-009/github-readme-stats)
+<br/>
+
 
 
 
