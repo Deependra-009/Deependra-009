@@ -54,10 +54,19 @@
 ![Node.js](http://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 <br/>
 
+![Deependra's github stats](https://github-readme-stats.vercel.app/api?username=Deependra-009&show_icons=true&theme=chartreuse-dark)
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deependra-009&layout=compact&theme=chartreuse-dark" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deependra-009&show_icons=true&theme=tokyonight&line_height=27" alt="AnkitDroidGit github stats" />
-<be/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deependra-009&layout=compact&theme=tokyonight" />
+
+
+
+
+
+
+
+
+
 
 
 
