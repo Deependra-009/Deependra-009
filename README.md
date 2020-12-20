@@ -55,8 +55,9 @@
 <br/>
 
 
-[![Deependra github stats](https://github-readme-stats.vercel.app/api?username=Deependra-009)](https://github.com/Deependra-009/github-readme-stats)
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deependra-009&show_icons=true&theme=tokyonight&line_height=27" alt="AnkitDroidGit github stats" />
+<be/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deependra-009&layout=compact&theme=tokyonight" />
 
 
 
