@@ -48,7 +48,7 @@
 
 ### ⏳ I’m currently working on ...
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Node.js](http://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 <br/>
