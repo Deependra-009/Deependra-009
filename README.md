@@ -7,10 +7,10 @@
 <img alt="GIF" height= 200 src="https://camo.githubusercontent.com/247e136bbbb5015042d384c1fe1c1ac854bd25c0d93870e6758c77a200115592/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934616b394b6932475a43624a78416e4a442f67697068792e676966" />
 
 
-- 🔭 I’m currently working on Machine Learning .
+- 🔭 I’m currently working on Java Full Stack  .
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking for  job opportunities in ML and Android Development. 
-- 💬 Ask me about Web Development and Android Development.
+- 👯 I’m looking for  job opportunities in Java Full Stack. 
+- 💬 Ask me about Full Stack Development and Android Development.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact:I love to playing PC and Mobile games / eating food 🍟
 
