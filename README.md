@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Deependra Trivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Deependra Trivedi <img src="https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/hii.gif" width="35"></h1>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer;DSA+%7C+ALGORITHIMS+%7C+OOPS;(300%2B)+question+solve+in+leetcode;2+Star+in+codechef;Always+Learning+new+thing" alt="Typing SVG" /></a>
 </p>
@@ -20,28 +20,36 @@
 
 <h2> Skills <img src = "https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/200w_s.gif" width = 32px> </h2>
 <div align="center">
-<img width ='32px' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg'>
+<img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/java.png'>
 &nbsp &nbsp 
-<img width ='32px' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg'>
+<img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/icons8-python-480.png'>
 &nbsp &nbsp
-<img width ='32px' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg'> 
+<img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/javascript.png'> 
 &nbsp &nbsp
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+ <img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/react.png'>
 &nbsp &nbsp
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+ <img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/icons8-css3-480.png'>
 &nbsp &nbsp
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+<img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/html.png'>
 &nbsp &nbsp
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
+<img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/icons8-android-os-240.png'>
 &nbsp &nbsp 
-<img width ='32px' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg'>
+<img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/icons8-bootstrap-480.png'>
+&nbsp &nbsp 
+<img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/icons8-angularjs-480.png'>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<!-- <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
+</div>
+
+<h2> Connect with me <img src='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/handshake.gif' width="100px"> </h2>
+<br>
+
+<div align="center">
+<a href=""> <img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/icons8-gmail-480.png'></a>
+&nbsp &nbsp 
+<a href=""> <img width ='40px' src ='https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/icons8-linkedin-480.png'></a>
+
+</div>
+
  
  
  <br><br><br>
