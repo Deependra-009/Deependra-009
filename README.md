@@ -53,8 +53,9 @@
  
  
  <br><br><br>
+[![Deependra Trivedi github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Deependra-009&theme=tokyonight)](https://github.com/Deependra-009/github-readme-activity-graph)
   
-[![Deependra Trivedi GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Deependra-009&theme=tokyonight)](https://git.io/praveenscience)
+<!-- [![Deependra Trivedi GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Deependra-009&theme=tokyonight)](https://git.io/praveenscience) -->
 
 | ![Deependra Trivedi github stats](https://github-readme-stats.vercel.app/api?username=Deependra-009&show_icons=true&theme=tokyonight) | ![Deependra Trivedi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deependra-009&theme=tokyonight) |
 | --- | --- |
