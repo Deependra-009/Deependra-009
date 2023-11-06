@@ -6,6 +6,8 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Deependra-009)
 [![Github](https://img.shields.io/github/followers/Deependra-009?label=Follow&style=social)](https://github.com/Deependra-009)
 
+![Project Logo](./images/Merged_document.png)
+
 <p><img height="400px" width="400px" align="right" src="https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/computer.gif" alt="adam-pw" /></p>
 
 ## :sassy_man:  About me <img src = "https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/giphy.webp" width = 150px> 
