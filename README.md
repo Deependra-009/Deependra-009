@@ -8,6 +8,7 @@
 
 My Contribution in private repos: 
 ![Project Logo](./Images/SS.png)
+<img src="./Images/SS.png"></img>
 
 <p><img height="400px" width="400px" align="right" src="https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/computer.gif" alt="adam-pw" /></p>
 
