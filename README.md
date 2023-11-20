@@ -7,8 +7,8 @@
 [![Github](https://img.shields.io/github/followers/Deependra-009?label=Follow&style=social)](https://github.com/Deependra-009)
 
 My Contribution in private repos: 
-![Project Logo](./Images/SS.png)
-<img src="./Images/SS.png"></img>
+![Project Logo](https://firebasestorage.googleapis.com/v0/b/food-for-you-e2209.appspot.com/o/Images%2FGuthub%20Images%2FProfile%2Fscreenshot_contri.jpg?alt=media&token=a8f5e7eb-1db3-4728-83bf-e193fb707877)
+
 
 <p><img height="400px" width="400px" align="right" src="https://github.com/Deependra-009/ReadmeGenerator/blob/main/Icons/computer.gif" alt="adam-pw" /></p>
 
